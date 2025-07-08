@@ -37,8 +37,8 @@ const Hero = () => {
                   Full Stack Developer
                 </h2>
                 <p className="text-lg md:text-xl text-white/70 animate-fade-in animation-delay-600 leading-relaxed max-w-2xl mx-auto">
-                  "I love building meaningful digital experiences that solve
-                  real problems"
+                  "I love building meaningful digital experiences that solvereal
+                  problems"
                 </p>
               </div>
 

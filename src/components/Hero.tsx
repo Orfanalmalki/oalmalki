@@ -11,7 +11,6 @@ const Hero = () => {
   };
 
   const downloadCV = () => {
-    // This would typically link to your actual CV file
     console.log("Download CV clicked");
   };
 

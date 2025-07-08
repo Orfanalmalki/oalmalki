@@ -19,7 +19,7 @@ const About = () => {
                 <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-400/20 to-blue-400/20 blur-xl animate-pulse"></div>
                 <div className="w-72 h-72 rounded-full bg-gradient-to-br from-blue-500/20 to-blue-500/20 flex items-center justify-center relative z-10">
                   <img
-                    src="/public/files/pp.png"
+                    src="/files/pp.png"
                     alt="Orfan Al Malki's Portrait"
                     className="w-full h-full object-cover rounded-full"
                   />
@@ -29,7 +29,7 @@ const About = () => {
             </div>
           </div>
 
-          {/* About Text - Right Side - Takes 2/3 (3 columns out of 5) */}
+          {/* About Text */}
           <div className="lg:col-span-3 backdrop-blur-xl bg-white/10 border border-white/20 rounded-3xl p-8 hover:bg-white/15 transition-all duration-300">
             <div className="flex items-center gap-4 mb-6">
               <div className="p-3 bg-sky-500/20 rounded-2xl">

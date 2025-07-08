@@ -34,11 +34,11 @@ const Hero = () => {
                   </span>
                 </h1>
                 <h2 className="text-xl md:text-2xl text-white/80 font-semibold animate-fade-in animation-delay-300">
-                  Full-Stack Developer
+                  Full Stack Developer
                 </h2>
                 <p className="text-lg md:text-xl text-white/70 animate-fade-in animation-delay-600 leading-relaxed max-w-2xl mx-auto">
                   "I love building meaningful digital experiences that solve
-                  real problems — across frontend and backend."
+                  real problems"
                 </p>
               </div>
 

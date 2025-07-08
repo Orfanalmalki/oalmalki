@@ -19,7 +19,7 @@ const About = () => {
                 <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-400/20 to-blue-400/20 blur-xl animate-pulse"></div>
                 <div className="w-72 h-72 rounded-full bg-gradient-to-br from-blue-500/20 to-blue-500/20 flex items-center justify-center relative z-10">
                   <img
-                    src="/files/pp.png"
+                    src={`${import.meta.env.BASE_URL}files/pp.png`}
                     alt="Orfan Al Malki's Portrait"
                     className="w-full h-full object-cover rounded-full"
                   />
@@ -38,7 +38,7 @@ const About = () => {
               <h3 className="text-2xl font-semibold text-white">About Me</h3>
             </div>
             <p className="text-white/80 leading-relaxed mb-6">
-              Full-Stack Developer with over 3 years of experience building
+              Full Stack Developer with over 3 years of experience building
               scalable web applications for clients in banking and healthcare.
               Skilled in modern technologies including React, Next.js, Node.js,
               NestJS, and cloud platforms like AWS and Azure. Proven ability to

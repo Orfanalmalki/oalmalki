@@ -17,7 +17,7 @@ const Contact = () => {
               soon as possible.
             </p>
             <a
-              href="/"
+              href="/oalmalki"
               className="inline-flex items-center gap-2 px-6 py-3 bg-green-500/20 hover:bg-green-500/30 border border-white/20 rounded-xl text-white hover:text-green-300 transition-all duration-300"
             >
               Go Back Home
